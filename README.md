@@ -21,8 +21,8 @@ Requires **macOS 26** or later.
 
 PixelScope is free to try for **14 days**. After the trial, enter a license key to keep measuring:
 
-- **Buy a license** from the in-app License screen (menu-bar icon → Options → Enter License…).
-- Your license activates on up to **3 Macs**. You can manage activations anytime from your customer portal.
+- **Buy a license** from the in-app License screen (menu-bar icon → Options → Enter License…), which opens secure checkout on Gumroad.
+- One license works on **all your Macs** — no device limit.
 
 ## Updates
 
