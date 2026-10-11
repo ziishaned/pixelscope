@@ -6,7 +6,7 @@
 
 ## Download
 
-Get the latest version from the [**Releases**](https://github.com/pixelscopeapp/pixelscope/releases/latest) page.
+Get the latest version from the [**Releases**](https://github.com/ziishaned/pixelscope/releases/latest) page.
 
 Requires **macOS 26** or later.
 
@@ -30,4 +30,4 @@ PixelScope checks for updates automatically and can install them for you. You ca
 
 ## Reporting issues
 
-Found a bug or have a feature request? [**Open an issue**](https://github.com/pixelscopeapp/pixelscope/issues/new) — please include your macOS version and the PixelScope version (menu-bar icon → Options → About).
+Found a bug or have a feature request? [**Open an issue**](https://github.com/ziishaned/pixelscope/issues/new) — please include your macOS version and the PixelScope version (menu-bar icon → Options → About).
